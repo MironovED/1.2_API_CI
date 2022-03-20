@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c38tfpexanb7sdk4?svg=true)](https://ci.appveyor.com/project/MironovED/1-2-api-ci)
